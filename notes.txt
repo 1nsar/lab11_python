@@ -1,0 +1,5 @@
+Hello! 
+
+This is lab11 - python (from MBZ)
+
+ß
