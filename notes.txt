@@ -4,3 +4,7 @@ This is lab11 - python (from MBZ)
 
 Summary section: 
 
+New section: 
+
+Insights: 
+
