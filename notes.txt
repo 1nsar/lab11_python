@@ -2,9 +2,11 @@ Hello!
 
 This is lab11 - python (from MBZ)
 
-Summary section: 
+Summary section (new): 
 
 New section: 
 
 Insights: 
+
+
 
